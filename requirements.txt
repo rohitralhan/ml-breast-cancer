@@ -5,3 +5,4 @@ numpy==1.26.4
 onnxruntime==1.19.2
 pandas==2.2.3
 nest-asyncio==1.6.0
+scikit-learn==1.6.0

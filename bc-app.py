@@ -4,6 +4,7 @@ import numpy as np
 import nest_asyncio
 import uvicorn
 import onnxruntime
+import pickle
 
 # Enable nested asyncio loops (required for Jupyter)
 nest_asyncio.apply()
